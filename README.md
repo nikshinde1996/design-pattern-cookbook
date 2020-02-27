@@ -9,295 +9,295 @@ bettered the lives of developers throughtout the world.
 
 ### A
 
-[API Gateway]()
+API Gateway
 
-[Abstract Document]()
+Abstract Document
 
-[Abstract Factory]()
+Abstract Factory
 
-[Acyclic Visitor]()
+Acyclic Visitor
 
-[Adapter]()
+Adapter
 
-[Aggregator Microservices]()
+Aggregator Microservices
 
-[Ambassador]()
+Ambassador
 
-[Async Method Invocation]()
+Async Method Invocation
 
 ### B
 
-[Balking]()
+Balking
 
-[Bridge]()
+Bridge
 
-[Builder]()
+Builder
 
-[Business Delegate]()
+Business Delegate
 
-[Bytecode]()
+Bytecode
 
 ### C
 
-[CQRS]()
+CQRS
 
-[Caching]()
+Caching
 
-[Callback]()
+Callback
 
-[Chain of responsibility]()
+Chain of responsibility
 
-[Circuit Breaker]()
+Circuit Breaker
 
-[Collection Pipeline]()
+Collection Pipeline
 
-[Combinator]()
+Combinator
 
-[Command]()
+Command
 
-[Commander]()
+Commander
 
-[Composite]()
+Composite
 
-[Converter]()
+Converter
 
 ### D
 
-[Data Access Object]()
+Data Access Object
 
-[Data Bus]()
+Data Bus
 
-[Data Locality]()
+Data Locality
 
-[Data Mapper]()
+Data Mapper
 
-[Data Transfer Object]()
+Data Transfer Object
 
-[Decorator]()
+Decorator
 
-[Delegation]()
+Delegation
 
-[Dependency Injection]()
+Dependency Injection
 
-[Dirty Flag]()
+Dirty Flag
 
-[Double Buffer]()
+Double Buffer
 
-[Double Checked Locking]()
+Double Checked Locking
 
-[Double Dispatch]()
+Double Dispatch
 
 ### E
 
-[EIP Aggregator]()
+EIP Aggregator
 
-[EIP Message Channel]()
+EIP Message Channel
 
-[EIP Publish Subscribe]()
+EIP Publish Subscribe
 
-[EIP Splitter]()
+EIP Splitter
 
-[EIP Wire Tap]()
+EIP Wire Tap
 
-[Event Aggregator]()
+Event Aggregator
 
-[Event Driven Architecture]()
+Event Driven Architecture
 
-[Event Queue]()
+Event Queue
 
-[Event Sourcing]()
+Event Sourcing
 
-[Event-based Asynchronous]()
+Event-based Asynchronous
 
-[Execute Around]()
+Execute Around
 
-[Extension objects]()
+Extension objects
 
 ### F
 
-[Facade]()
+Facade
 
-[Factory Kit]()
+Factory Kit
 
-[Factory Method]()
+Factory Method
 
-[Feature Toggle]()
+Feature Toggle
 
-[Fluent Interface]()
+Fluent Interface
 
-[Flux]()
+Flux
 
-[Flyweight]()
+Flyweight
 
-[Front Controller]()
+Front Controller
 
 ### G
 
-[Game Loop]()
+Game Loop
 
-[Guarded Suspension]()
+Guarded Suspension
 
 ### H
 
-[Hexagonal Architecture]()
+Hexagonal Architecture
 
 ### I
 
-[Intercepting Filter]()
+Intercepting Filter
 
-[Interpreter]()
+Interpreter
 
-[Iterator]()
+Iterator
 
 ### L
 
-[Layers]()
+Layers
 
-[Lazy Loading]()
+Lazy Loading
 
-[Leader Election]()
+Leader Election
 
 ### M
 
-[Marker Interface]()
+Marker Interface
 
-[Master-Worker]()
+Master-Worker
 
-[Mediator]()
+Mediator
 
-[Memento]()
+Memento
 
-[Model-View-Controller]()
+Model-View-Controller
 
-[Model-View-Presenter]()
+Model-View-Presenter
 
-[Module]()
+Module
 
-[Monad]()
+Monad
 
-[MonoState]()
+MonoState
 
-[Multiton]()
+Multiton
 
-[Mute Idiom]()
+Mute Idiom
 
-[Mutex]()
+Mutex
 
 ### N
 
-[Naked Objects]()
+Naked Objects
 
-[Null Object]()
+Null Object
 
-[Object Mother]()
+Object Mother
 
-[Object Pool]()
+Object Pool
 
 ### O
 
-[Observer]()
+Observer
 
 ### P
 
-[Page Object]()
+Page Object
 
-[Partial Response]()
+Partial Response
 
-[Pipeline]()
+Pipeline
 
-[Poison Pill]()
+Poison Pill
 
-[Priority Queue Pattern]()
+Priority Queue Pattern
 
-[Private Class Data]()
+Private Class Data
 
-[Producer Consumer]()
+Producer Consumer
 
-[Promise]()
+Promise
 
-[Property]()
+Property
 
-[Prototype]()
+Prototype
 
-[Proxy]()
+Proxy
 
 ### Q
 
-[Queue based load leveling]()
+Queue based load leveling
 
 ### R
 
-[Reactor]()
+Reactor
 
-[Reader Writer Lock]()
+Reader Writer Lock
 
-[Repository]()
+Repository
 
-[Resource Acquisition Is Initialization]()
+Resource Acquisition Is Initialization
 
-[Retry]()
+Retry
 
-[Role Object]()
+Role Object
 
 ### S
 
-[Saga]()
+Saga
 
-[Semaphore]()
+Semaphore
 
-[Servant]()
+Servant
 
-[Serverless]()
+Serverless
 
-[Service Layer]()
+Service Layer
 
-[Service Locator]()
+Service Locator
 
-[Sharding]()
+Sharding
 
-[Singleton]()
+Singleton
 
-[Spatial Partition]()
+Spatial Partition
 
-[Specification]()
+Specification
 
-[State]()
+State
 
-[Step Builder]()
+Step Builder
 
-[Strategy]()
+Strategy
 
-[Subclass Sandbox]()
+Subclass Sandbox
 
 ### T
 
-[Template method]()
+Template method
 
-[Thread Local Storage]()
+Thread Local Storage
 
-[Thread Pool]()
+Thread Pool
 
-[Throttling]()
+Throttling
 
-[Tolerant Reader]()
+Tolerant Reader
 
-[Trampoline]()
+Trampoline
 
-[Twin]()
+Twin
 
-[Type-Object]()
+Type-Object
 
 ### U
 
-[Unit Of Work]()
+Unit Of Work
 
-[Update Method]()
+Update Method
 
 ### V
 
-[Value Object]()
+Value Object
 
-[Visitor]()
+Visitor
 
 
 ## Contributing
