@@ -40,7 +40,7 @@
 
 #### Participants while implementing Builder patter.
 
-![alt builder sequence diagram] (builder_sequence_diagram.png)
+![alt text](builder_sequence_diagram.png "builder sequence diagram")
 
 ###### Builder
 * Specifies an abstract interface for creating the Product object.
