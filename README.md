@@ -228,7 +228,7 @@ Promise
 
 Property
 
-Prototype
+[Prototype](Prototype/)
 
 Proxy
 

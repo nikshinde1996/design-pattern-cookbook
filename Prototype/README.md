@@ -41,7 +41,7 @@
     * There is ciruclar reference in Object(s).
 * Language inbuilt cloeable interfaces might have some problems
 
-### Implementing Prototyoe design pattern
+### Implementing Prototype design pattern
 
 ![alt text](prototype_design_pattern_class_diagram.png "prototype design pattern class diagram")
 
@@ -57,7 +57,7 @@ Following paritipants are present includes while implementing protoype design pa
 ### Problems with cloneable interfaces
 
 * Cloneable interfaces in many languages do not provide the deep copy feature, hence we might need to shallow copy the object recursivey to componse the entire object.
-* In java langguage, Cloneable is the marker interface, its does not contain any method. But still need to implement it to tell JVM that class in cloneable.
+* In Java language, Cloneable is the marker interface, its does not contain any method. But still need to implement it to tell JVM that class in cloneable.
 * You cannot do the polymorphic clone operation. (We cannot cast something as cloneable)
 * The clone generally shares the state with the clones copy, hence if that state is immutable, we don't actually have two independent object.
 
@@ -71,7 +71,7 @@ Following paritipants are present includes while implementing protoype design pa
     * Copy constructor does not require us to depend on unknown object creation mechanism, and does not require parent class to follow any contract and implement anything.
     * Client has total control object the object creation, it can specify the custom cloning implemetation.
 
-* Serializable / Deserializable
+* Serialization / Deserialization
     * instead of cloning we can serialize the object and then immediatly deserialize the object, it would lead to new instance creation.
     * There are amy drawbacks as we do not have control over the object creation, any modification. Also serialization is slower than cloning.
     * Major advantage is that serialization does deep cloning and is much simpler than cloning.
