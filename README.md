@@ -24,7 +24,7 @@ API Gateway
 
 Abstract Document
 
-Abstract Factory
+[Abstract Factory Method](Abstract-Factory-Method/)
 
 Acyclic Visitor
 

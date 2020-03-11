@@ -28,35 +28,35 @@
 
 * Hides tha complexities of making the new instances from the client.
 * Provides the options for client to generate objects whose type is not known.
-* In many circumstances copying the obejct will be more efficient that creating a new object.
+* In many circumstances copying the object will be more efficient that creating a new object.
 * This design pattern is more flexible than other design patterns because clients can include or discard products at runtime. And create the new instances at cheaper cost.
-* Lets client define new behaviour through the object composition. By specifying the values of object's variables and not defining new classes.
-* A client can exhibit new behaviour by delegating the responsibilty to the prototype. Cna greatly reduce the number of classes asystem needs. Also reduces sub-classing.
+* Lets client define new behavior through the object composition. By specifying the values of object's variables and not defining new classes.
+* A client can exhibit new behavior by delegating the responsibility to the prototype. Cna greatly reduce the number of classes a system needs. Also reduces sub-classing.
 
 ### Drawbacks
 
 * Each subclass has to implement a cloning mechanism
 * Implementing cloning mechanism can be challenging.
     * If objects under consideration do not support copying.
-    * There is ciruclar reference in Object(s).
-* Language inbuilt cloeable interfaces might have some problems
+    * There is circular reference in Object(s).
+* Language inbuilt cloneable interfaces might have some problems
 
 ### Implementing Prototype design pattern
 
 ![alt text](prototype_design_pattern_class_diagram.png "prototype design pattern class diagram")
 
-Following paritipants are present includes while implementing protoype design pattern
+Following participants are present includes while implementing prototype design pattern
 
 * Prototype
-    * delcares an interface for cloing itself.
-* ConcreteProtoype
+    * declares an interface for cloning itself.
+* ConcretePrototype
     * implements and operation for cloning itself.
 * Client
     * creates a new object by asking the prototype to clone itself.
 
 ### Problems with cloneable interfaces
 
-* Cloneable interfaces in many languages do not provide the deep copy feature, hence we might need to shallow copy the object recursivey to componse the entire object.
+* Cloneable interfaces in many languages do not provide the deep copy feature, hence we might need to shallow copy the object recursively to compose the entire object.
 * In Java language, Cloneable is the marker interface, its does not contain any method. But still need to implement it to tell JVM that class in cloneable.
 * You cannot do the polymorphic clone operation. (We cannot cast something as cloneable)
 * The clone generally shares the state with the clones copy, hence if that state is immutable, we don't actually have two independent object.
@@ -69,9 +69,9 @@ Following paritipants are present includes while implementing protoype design pa
     * Copy constructor does not require to cast and allows us to modify the final fields.
     * Copy constructor does not force us to implement any interface or throw any exception.
     * Copy constructor does not require us to depend on unknown object creation mechanism, and does not require parent class to follow any contract and implement anything.
-    * Client has total control object the object creation, it can specify the custom cloning implemetation.
+    * Client has total control object the object creation, it can specify the custom cloning implementation.
 
 * Serialization / Deserialization
-    * instead of cloning we can serialize the object and then immediatly deserialize the object, it would lead to new instance creation.
+    * instead of cloning we can serialize the object and then immediately deserialize the object, it would lead to new instance creation.
     * There are amy drawbacks as we do not have control over the object creation, any modification. Also serialization is slower than cloning.
     * Major advantage is that serialization does deep cloning and is much simpler than cloning.
