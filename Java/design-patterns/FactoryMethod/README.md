@@ -41,6 +41,9 @@
 
 2. Concrete Creator
     * There is only one Creator class for all the Products. We need to instantiate the single creator class in client code.
+    * In this creator, there is only one Factory creator implementation and the factory method takes the unique argument that decides which Product class will be instantiated. e.g. take string of class name as the argument which can be meshed up in factory method to decide class instantiation   
+   
 
 3. Static Creator
     * There is only one Creator class for all the Products. This creator class has the static factory method to create class object. We don't require to instantiate the creator class in client, just use the static method.
+    * This is much similar to the Concrete Creator, but the factory method is static. this way we do not require to instantiate the Factory Class in client code to call the factory method.    
