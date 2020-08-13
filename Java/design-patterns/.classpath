@@ -5,5 +5,6 @@
 	<classpathentry kind="src" path="Builder"/>
 	<classpathentry kind="src" path="FactoryMethod"/>
 	<classpathentry kind="src" path="Bridge"/>
+	<classpathentry kind="src" path="Singleton"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
