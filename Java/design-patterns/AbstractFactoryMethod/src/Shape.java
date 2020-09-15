@@ -4,7 +4,7 @@ public interface Shape {
 	void draw();
 }
 
-class Square implements Shape {
+class Square implements Shape1 {
 
 	@Override
 	public void draw() {
@@ -12,7 +12,7 @@ class Square implements Shape {
 	}	
 }
 
-class Circle implements Shape {
+class Circle implements Shape1 {
 
 	@Override
 	public void draw() {
@@ -20,7 +20,7 @@ class Circle implements Shape {
 	}	
 }
 
-class Rectangle implements Shape {
+class Rectangle implements Shape1 {
 
 	@Override
 	public void draw() {

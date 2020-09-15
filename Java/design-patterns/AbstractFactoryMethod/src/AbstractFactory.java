@@ -1,12 +1,12 @@
 package src;
 
 public abstract class AbstractFactory {
-	public abstract Shape getShape(String shape);
+	public abstract Shape1 getShape(String shape);
 	public abstract Color getColor(String color);
 }
 
 class ShapeFactory extends AbstractFactory {
-	public Shape getShape(String shapeType) {
+	public Shape1 getShape(String shapeType) {
 		if(shapeType == null) {
 			return null;
 		}
@@ -31,7 +31,7 @@ class ShapeFactory extends AbstractFactory {
 class ColorFactory extends AbstractFactory {
 
 	@Override
-	public Shape getShape(String shapeType) {
+	public Shape1 getShape(String shapeType) {
 		return null;
 	}
 
