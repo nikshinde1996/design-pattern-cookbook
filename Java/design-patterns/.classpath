@@ -7,5 +7,6 @@
 	<classpathentry kind="src" path="Bridge"/>
 	<classpathentry kind="src" path="Singleton"/>
 	<classpathentry kind="src" path="Prototype"/>
+	<classpathentry kind="src" path="Adaptor"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
