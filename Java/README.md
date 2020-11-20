@@ -23,7 +23,7 @@ Async Method Invocation
 
 Balking
 
-[Bridge](Bridge/)
+Bridge
 
 [Builder](Builder/)
 
