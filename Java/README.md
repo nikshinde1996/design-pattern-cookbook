@@ -5,9 +5,10 @@
 
 * [Abstract Factory Method](AbstractFactoryMethod/)
 * [Builder](Builder/)
-* [Factory Method](Factory-Method/)
+* [Factory Method](FactoryMethod/)
 * [Prototype](Prototype/)
 * [Singleton](Singleton/)
+* [Object Pool](ObjectPool/)
 
 ## 2. Structural Design patterns
 
@@ -190,11 +191,9 @@ Naked Objects
 
 Null Object
 
-Object Mother
-
-Object Pool
-
 ### O
+
+Object Mother
 
 Observer
 
