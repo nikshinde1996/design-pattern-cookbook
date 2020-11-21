@@ -1,4 +1,4 @@
-### Bridge Design Pattern
+### Bridge Design Pattern - STRUCTURAL DESIGN PATTERN
 * The bridge design pattern decouples an abstraction from its implemenation so the two can vary independently.
     * decouples the abstract class from its implementation class by providing the bridge between them
     * decoupling - means to have things independently of one another.
@@ -20,21 +20,21 @@
 ### Use when?
 * when you want to void permanent binding between an abstraction and its implementation. Using this one can switch/select the implementation at runtime.
 * when both the abstractions and their implementations must be extensible by subclassing.
-    * lets you combine the different abstractions and implementation and extend them independently.   
+    * lets you combine the different abstractions and implementation and extend them independently.
 * clients code should not have to be recompiled on changing the implementations of the abstraction.
 * when you have ton of implementation classes.
 * when you want to completely hide the implementation of an abstraction from its clients.
 * unlike Adaptor design pattern it is used upfront in the design.
 
 ### Participants
-* Abstraction 
+* Abstraction
     * core of the bridge design pattern, defines the crux (abstraction's interface)
     * contains reference to the implementer
-* RefinedAbstraction 
+* RefinedAbstraction
     * extends the abstraction, takes the finer detail one level below
 * Implementer
-    * defines the interface for the implementation classes 
-* Concrete implementer 
+    * defines the interface for the implementation classes
+* Concrete implementer
     * implements the above implementer by providing the concrete implementation.
 
 ### Moto

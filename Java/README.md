@@ -1,17 +1,30 @@
 # Design-pattern-cookbook
 
 
+## 1. Creational Design patterns
+
+* [Abstract Factory Method](AbstractFactoryMethod/)
+* [Builder](Builder/)
+* [Factory Method](Factory-Method/)
+* [Prototype](Prototype/)
+* [Singleton](Singleton/)
+
+## 2. Structural Design patterns
+
+* [Adapter](Adapter/)
+* [Bridge](Bridge/)
+
+## 3. Behavioral Design patterns
+
+*
+
 ### A
 
 API Gateway
 
 Abstract Document
 
-[Abstract Factory Method](Abstract-Factory-Method/)
-
 Acyclic Visitor
-
-Adapter
 
 Aggregator Microservices
 
@@ -22,10 +35,6 @@ Async Method Invocation
 ### B
 
 Balking
-
-[Bridge](Bridge/)
-
-[Builder](Builder/)
 
 Business Delegate
 
@@ -112,8 +121,6 @@ Extension objects
 Facade
 
 Factory Kit
-
-[Factory Method](Factory-Method/)
 
 Feature Toggle
 
@@ -211,8 +218,6 @@ Promise
 
 Property
 
-[Prototype](Prototype/)
-
 Proxy
 
 ### Q
@@ -248,8 +253,6 @@ Service Layer
 Service Locator
 
 Sharding
-
-Singleton
 
 Spatial Partition
 

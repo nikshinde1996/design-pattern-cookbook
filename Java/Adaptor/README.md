@@ -1,15 +1,15 @@
-# Adaptor Design Pattern
+# Adaptor Design Pattern - STRUCTURAL DESIGN PATTERN
 1. The adaptor design pattern converts an interface of a class into another interface that client expects.
 	- works as a bridge between two incompatible interfaces.
-	- Also known as the WRAPPER. It lets classes work together that would not otherwise. 
-	- Classified as structural design pattern since it combines the capabilities of two independent interfaces. 
+	- Also known as the WRAPPER. It lets classes work together that would not otherwise.
+	- Classified as structural design pattern since it combines the capabilities of two independent interfaces.
 2. The adaptor acts to decouple the client from the implemented interface.
 	- Encapsulates the future changes.
 	- Client does not need to be modified each time it operates on different interfaces.
 3. Full of good Object Oriented design principles
 	- Binds the client to an interface not the implementation.
 	- Uses the object composition to wrap the adaptee with an altered interface.
-	
+
 #### Client usage
 1. Client makes a request to the adaptor by calling the method on it using the target interface.
 2. The adaptor translates the request into one or more calls on the adaptee using the adaptee interface.

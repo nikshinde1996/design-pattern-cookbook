@@ -1,6 +1,5 @@
-### Abstract Factory Method
-1.  This is creational design pattern.
-2.  Abstract factory provides an interface for creating families of related or dependent objects
+### Abstract Factory Method - CREATIONAL DESIGN PATTERN
+1.  Abstract factory provides an interface for creating families of related or dependent objects
 without specifying their concrete classes.
     * factory of factories.
     * super factory that creates other factories.
@@ -46,7 +45,7 @@ without specifying their concrete classes.
 6. Factory method relies on inheritance while Abstract Factory Method relies on Object composition.
 
 
-### Class diagram 
+### Class diagram
 
 1.  A client uses object derived from two different Product classes
     * AbstractProductA and AbstractProductB declares as interface for a product object.

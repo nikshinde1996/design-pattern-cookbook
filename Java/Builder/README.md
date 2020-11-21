@@ -1,4 +1,4 @@
-### Builder Design Pattern
+### Builder Design Pattern - CREATIONAL DESIGN PATTERN
 * The builder design pattern separates the construction of complex object from its representation.
     * It uses the same construction processes to create the same object. these processes can create different representations of the object.
     * Use simple objects and step by step approach to create the object.
@@ -23,7 +23,7 @@
 * Allows object to be constructed in multisteps and varying process (unlike the one-step factories), programming to an interface.
 * Hides the internal representation from the clients.
 * Focuses on "how the product will be mode?"
-* Isolates code for construction and representation, Improves modularity. 
+* Isolates code for construction and representation, Improves modularity.
 
 ### Disadvantages of builder pattern
 * Often used for building composite structures
