@@ -14,6 +14,8 @@
 
 * [Adapter](Adapter/)
 * [Bridge](Bridge/)
+* [Filter](Filter/)
+* [Composite](Composite/)
 
 ## 3. Behavioral Design patterns
 
@@ -60,8 +62,6 @@ Combinator
 Command
 
 Commander
-
-Composite
 
 Converter
 
