@@ -16,6 +16,7 @@
 * [Bridge](Bridge/)
 * [Filter](Filter/)
 * [Composite](Composite/)
+* [Decorator](Decorator/)
 
 ## 3. Behavioral Design patterns
 
@@ -76,8 +77,6 @@ Data Locality
 Data Mapper
 
 Data Transfer Object
-
-Decorator
 
 Delegation
 
