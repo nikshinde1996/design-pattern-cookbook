@@ -17,6 +17,7 @@
 * [Filter](Filter/)
 * [Composite](Composite/)
 * [Decorator](Decorator/)
+* [Facade](Facade/)
 
 ## 3. Behavioral Design patterns
 
@@ -117,8 +118,6 @@ Execute Around
 Extension objects
 
 ### F
-
-Facade
 
 Factory Kit
 
