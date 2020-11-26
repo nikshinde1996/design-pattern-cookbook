@@ -18,8 +18,9 @@
 * [Composite](Composite/)
 * [Decorator](Decorator/)
 * [Facade](Facade/)
+* [Flyweight](Flyweight/)
 
-## 3. Behavioral Design patterns
+## 3. Behavioural Design patterns
 
 *
 
@@ -126,8 +127,6 @@ Feature Toggle
 Fluent Interface
 
 Flux
-
-Flyweight
 
 Front Controller
 
