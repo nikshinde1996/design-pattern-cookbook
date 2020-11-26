@@ -19,6 +19,7 @@
 * [Decorator](Decorator/)
 * [Facade](Facade/)
 * [Flyweight](Flyweight/)
+* [Proxy](Proxy/)
 
 ## 3. Behavioural Design patterns
 
