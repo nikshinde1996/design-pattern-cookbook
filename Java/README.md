@@ -20,6 +20,7 @@
 * [Facade](Facade/)
 * [Flyweight](Flyweight/)
 * [Proxy](Proxy/)
+* [Private Class Data](PrivateClassData/)
 
 ## 3. Behavioural Design patterns
 
@@ -206,8 +207,6 @@ Pipeline
 Poison Pill
 
 Priority Queue Pattern
-
-Private Class Data
 
 Producer Consumer
 
