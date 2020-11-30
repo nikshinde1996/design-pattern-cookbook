@@ -24,7 +24,7 @@
 
 ## 3. Behavioural Design patterns
 
-*
+* [Chain of Responsibility](ChainOfResponsibility/)
 
 ### A
 
@@ -55,8 +55,6 @@ CQRS
 Caching
 
 Callback
-
-Chain of responsibility
 
 Circuit Breaker
 
