@@ -25,6 +25,7 @@
 ## 3. Behavioural Design patterns
 
 * [Chain of Responsibility](ChainOfResponsibility/)
+* [Command](Command/)
 
 ### A
 
@@ -61,8 +62,6 @@ Circuit Breaker
 Collection Pipeline
 
 Combinator
-
-Command
 
 Commander
 
