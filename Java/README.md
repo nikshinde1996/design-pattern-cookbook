@@ -26,6 +26,7 @@
 
 * [Chain of Responsibility](ChainOfResponsibility/)
 * [Command](Command/)
+* [Interpreter](Interpreter/)
 
 ### A
 
@@ -142,8 +143,6 @@ Hexagonal Architecture
 ### I
 
 Intercepting Filter
-
-Interpreter
 
 Iterator
 
