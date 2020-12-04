@@ -28,6 +28,7 @@
 * [Command](Command/)
 * [Interpreter](Interpreter/)
 * [Iterator](Iterator/)
+* [Mediator](Mediator/)
 
 ### A
 
@@ -158,8 +159,6 @@ Leader Election
 Marker Interface
 
 Master-Worker
-
-Mediator
 
 Memento
 
