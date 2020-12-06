@@ -31,6 +31,7 @@
 * [Mediator](Mediator/)
 * [Memento](Memento/)
 * [State](State/)
+* [Observer](Observer/)
 
 ### A
 
@@ -187,8 +188,6 @@ Null Object
 ### O
 
 Object Mother
-
-Observer
 
 ### P
 
