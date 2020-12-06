@@ -30,6 +30,7 @@
 * [Iterator](Iterator/)
 * [Mediator](Mediator/)
 * [Memento](Memento/)
+* [State](State/)
 
 ### A
 
@@ -246,8 +247,6 @@ Sharding
 Spatial Partition
 
 Specification
-
-State
 
 Step Builder
 
