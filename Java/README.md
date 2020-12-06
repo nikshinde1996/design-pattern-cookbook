@@ -29,6 +29,7 @@
 * [Interpreter](Interpreter/)
 * [Iterator](Iterator/)
 * [Mediator](Mediator/)
+* [Memento](Memento/)
 
 ### A
 
@@ -159,8 +160,6 @@ Leader Election
 Marker Interface
 
 Master-Worker
-
-Memento
 
 Model-View-Controller
 
