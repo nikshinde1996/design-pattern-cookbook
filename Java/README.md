@@ -32,6 +32,7 @@
 * [Memento](Memento/)
 * [State](State/)
 * [Observer](Observer/)
+* [Strategy](Strategy/)
 
 ### A
 
@@ -248,8 +249,6 @@ Spatial Partition
 Specification
 
 Step Builder
-
-Strategy
 
 Subclass Sandbox
 
