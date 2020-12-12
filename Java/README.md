@@ -33,6 +33,7 @@
 * [State](State/)
 * [Observer](Observer/)
 * [Strategy](Strategy/)
+* [Template Method](TemplateMethod/)
 
 ### A
 
@@ -253,8 +254,6 @@ Step Builder
 Subclass Sandbox
 
 ### T
-
-Template method
 
 Thread Local Storage
 
