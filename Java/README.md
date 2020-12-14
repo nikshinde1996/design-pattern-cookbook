@@ -34,6 +34,7 @@
 * [Observer](Observer/)
 * [Strategy](Strategy/)
 * [Template Method](TemplateMethod/)
+* [Visitor](Visitor/)
 
 ### A
 
@@ -278,9 +279,6 @@ Update Method
 ### V
 
 Value Object
-
-Visitor
-
 
 ## Contributing
 Your contributions are always welcome!
